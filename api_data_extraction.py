@@ -7,7 +7,7 @@ import os
 # CONFIGURE THESE
 # -------------------------------
 API_URL = "https://cricbuzz-cricket.p.rapidapi.com/mcenter/v1/40381/hscard"
-API_KEY = "MY_API_KEY"
+API_KEY = "API_KEY"
 API_HOST = "cricbuzz-cricket.p.rapidapi.com"
 OUTPUT_FOLDER = "output"
 # -------------------------------
